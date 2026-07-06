@@ -1,4 +1,5 @@
 # SGM-KPatch
+<img width="939" height="683" alt="image" src="https://github.com/user-attachments/assets/b70c16f9-1b27-4fa4-b2f2-2b2d190d8698" />
 
 PS3 진건담무쌍 한국어 패치
 
