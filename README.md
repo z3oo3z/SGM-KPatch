@@ -71,42 +71,39 @@ EBOOT.BIN을 가져와야 패치 할 수 있습니다
      51a9e9194389b9b7081090fad19a1be0
            
   (2)  LINKDATA.A
-      위치 : PS3_GAME\USRDIR\LINKDATA_PS3
-    원본 MD5해시값
-     e98aa8553c64c4ed8fefb5dc0780bc92
+        위치 : PS3_GAME\USRDIR\LINKDATA_PS3
+     원본 MD5해시값
+      e98aa8553c64c4ed8fefb5dc0780bc92
 
   (3)  LINKDATA.B
-      위치 : PS3_GAME\USRDIR\LINKDATA_PS3
+     위치 : PS3_GAME\USRDIR\LINKDATA_PS3
      원본 MD5해시값
       7bc3da5d58e66ec95a6624d4919d83e6
      
   (4)  LINKDATA.C
-      위치 : PS3_GAME\USRDIR\LINKDATA_PS3
-      원본 MD5해시값
-        89c16a9e4bfd5a483a596888e4050166
+     위치 : PS3_GAME\USRDIR\LINKDATA_PS3
+     원본 MD5해시값
+      89c16a9e4bfd5a483a596888e4050166
 
   (5) LINKDATA.D
-      위치 : PS3_GAME\USRDIR\LINKDATA_PS3
-      원본 MD5해시값
-        f7e4ad4262a5212f18e7fb122e3880b3
+     위치 : PS3_GAME\USRDIR\LINKDATA_PS3
+     원본 MD5해시값
+      f7e4ad4262a5212f18e7fb122e3880b3
  
-
 MD5해시값은 동봉된 한글패치 파일중에
-
 md5cheker.bat 에 파일을 올려놓으면 표시됩니다
-
 
 3. 패치시작
   "이거_눌러서_패치해.bat" 를 누릅니다.
   완료 메세지가 나올 때까지 기다립니다.
 
-4. 패치된 파일 복사
+5. 패치된 파일 복사
    현재폴더/patched 에 5개의 패치된 파일이 생성되어 있습니다
    원래 위치에 복사합니다.  
    복사할 때 "덮어쓸거냐?"라고 물어보면 YES(네~)
 
  (1) 현재폴더/patched/EBOOT.BIN
-     위치로 복사: rpcs3 설치폴더/dev_hdd0/game/BLJM61140/USRDIR/EBOOT.BIN
+      위치로 복사: rpcs3 설치폴더/dev_hdd0/game/BLJM61140/USRDIR/EBOOT.BIN
            
   (2) 현재폴더/patched/LINKDATA.A
       위치로 복사 : 원본게임폴더/PS3_GAME\USRDIR\LINKDATA_PS3
