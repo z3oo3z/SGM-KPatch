@@ -109,6 +109,7 @@ md5cheker.bat 에 파일을 올려놓으면 표시됩니다
       위치로 복사 : 원본게임폴더/PS3_GAME\USRDIR\LINKDATA_PS3
 
   (3) 현재폴더/patched/LINKDATA.B
+  
       위치로 복사 : 원본게임폴더/PS3_GAME\USRDIR\LINKDATA_PS3
 
   (4) 현재폴더/patched/LINKDATA.C
@@ -151,18 +152,18 @@ md5cheker.bat 에 파일을 올려놓으면 표시됩니다
 
     TrueAncestor_EDAT_Rebuilder_v1.65 사용 (구글검색)
     사용법 (사용 전에 백신으로 검사 하세요)
-     (1) 압축풀어 edat폴더를 만들고 dlc파일들을 넣습니다
-     (2) rebuilder.exe 실행
+    (1) 압축풀어 edat폴더를 만들고 dlc파일들을 넣습니다
+    (2) rebuilder.exe 실행
     (3) 녹색글자창이 뜨면 차례대로 1누르고, a누르면 
     (4) 파일 복호화 됩니다.
 
        복호화되면 EDAT폴더에 DAT확장자 파일들이 생성됩니다.
 
-3. 복호된 파일들을 패치작업하는 폴더로 모두 복사합니다
+4. 복호된 파일들을 패치작업하는 폴더로 모두 복사합니다
     위치 : 패치작업하는 폴더
 
 
-4. 한글패치 시작
+5. 한글패치 시작
 
  (1) 원본 파일 해시값 확인
         "MD5값확인.bat" 눌러 아래와 같은 프롬그램을 띄워 해시값을 확인합니다
